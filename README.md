@@ -57,7 +57,7 @@ git clone https://github.com/codingburgas/movie-ticket-booking-system-10th-grade
 
 Contributors names and contact info
 
-ex. [@ailalev22](mailto:ailalev22@codingburgas.bg)
+ex. [@pazov44]
 
 ## Version History
 
