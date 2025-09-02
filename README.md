@@ -22,7 +22,7 @@ This is a console-based Movie Ticket Booking System developed in C++. It enables
 1. **Clone the repository**
 
 ```
-git clone https://github.com/codingburgas/movie-ticket-booking-system-10th-grade-AILalev22.git
+git clone https://github.com/pazov44/Movie-ticket-booking-system.git
 ```
 
 2. **Open the solution**  
